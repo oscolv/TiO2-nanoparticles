@@ -1,0 +1,5 @@
+  ID   Compositions    Enthalpies    Volumes    fitness  SYMM
+                       (eV/atom)    (A^3/atom)    ()         
+   1  [     2  4  ]     -7.9082     35.2853    -47.4493     0
+   2  [     2  4  ]     -7.8649     33.8142    -47.1891     0
+   4  [     2  4  ]     -7.8203     38.1962    -46.9217     0
